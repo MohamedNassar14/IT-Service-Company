@@ -1,0 +1,67 @@
+body{margin-top: 0;width: 1347;margin-bottom: 3px;margin-left: 0;}
+.container{width: 1200px;margin: auto;}
+span{color: red;}
+.header{height: 50;background-color: black;color: white;border-top-left-radius: 15px;border-top-right-radius: 15px;}
+.header .left{padding-top: 10px;padding-left: 15px; float: left;}
+.header .right{float: right;}
+.header .right ul{float: left;list-style: none;}
+.header .right ul li{display: inline;}
+.clearfix{clear: both;}
+.info{overflow: hidden;}
+.info .name{float: left;margin-top: 5px;}
+.info .name h1{font-size: 20px;display: inline;}
+.info .name ul{float: left;list-style: none;}
+.info .name ul span1{border: 1px solid red;color: red;}  
+.info .name ul span{border-bottom: 1px solid red}
+.info .name ul li{display: inline;margin-right: 5px;cursor: pointer;}
+.info .butto{float:right;}
+.info .butto button{margin-top: 15%;background-color: red;color: white;width: 90;height: 30;border: none;border-top-left-radius: 5px;border-top-right-radius: 5px;border-bottom-left-radius: 5px;border-bottom-right-radius: 5px;cursor: pointer;}
+.interface{background-image: url("qq.jpg");background-repeat: no-repeat;background-size: 1355px 530px;height: 530;}
+.interface p{padding-top: 6%;color: white;margin-bottom: -1%;}
+.interface h1{color: white;width:320px;margin-bottom: -2%;}
+.interface h2{color: white;}
+.interface p1,a{color: white;line-height: 20px;}
+.interface a{margin-left: 30px;}
+.interface .one{width: 15%; float: left;overflow: hidden;margin-left: 2px;padding-top: 1px;padding-left: 2px;}
+.interface .two{width: 20%;float: left;background-color: red;border-radius: 50%;}
+.interface .three{width: 80%;float: left;margin-top: 8px;margin-left: -10px;}
+.photos .title{text-align: center;margin-top: -60px;background-color: white;border-top-right-radius: 30px;border-top-left-radius: 30px;padding-top: 15px;}
+.photos .title h1{margin-bottom: 4px;}
+.photos .title p1,p2{opacity: .7;}
+.photos .flex{overflow: hidden; margin-top: 6%;display: flex;}
+.photos .flex .flex-item{width: 30%;margin-left: 3%;}
+.photos .flex .flex-item img{margin-left: 25%;margin-bottom: 3px;}
+.photos .flex .flex-item h1{font-size: x-large;margin-left: 10%;}
+.message{height: 630;margin-top: 5%;background-image: url("oo.jpg");background-repeat: no-repeat;background-size: 1355px 650px;padding-top: 8%;padding-bottom: 10%;}
+.message .text{text-align: center;border: 1px solid white;background-color: rgba(255, 255, 255, 0.671);width: 530px;padding-bottom: 25px;padding-left: 25px;padding-right: 15px; margin-left: 27%;border-top-right-radius: 20px;border-top-left-radius: 20px;border-bottom-left-radius: 20px;border-bottom-right-radius: 20px;}
+.message .text h1{font-size: 35px;margin-bottom: -.5px;}
+.features .service{text-align: center;margin-top: -130px;}
+.features .service p1{opacity: .7;}
+.features .feature{overflow: hidden;margin-top: 5%;margin-left: 5%;}
+.features .feature .content{float: left;width: 30%;margin-bottom: 5%;margin-right: 3%;}
+.features .feature .content .icon{float: left;width: 20%;margin-top: 3%;margin-right: -2%;}
+.features .feature .content .talk{float: left;width: 80%;}
+.features .feature .content .talk p{opacity: .7;}
+.features .butto{text-align: center;margin-bottom: 5%;}
+.features .butto button:first-child{background-color: red;color: white;width: 150;height: 25;border: none;margin-right: 1%;cursor: pointer;}
+.features .butto button:last-child{background-color: white;width: 130;height: 25;border-top-left-radius: 5px;border-top-right-radius: 5px;border-bottom-left-radius: 5px;border-bottom-right-radius: 5px;cursor: pointer;}
+.pictures .blog{margin-bottom: 4%;text-align: center;}
+.pictures p1{opacity: .7;}
+.pictures .blog{margin-bottom: 4%;}
+.pictures .picture {overflow: hidden;margin-bottom: 5%;}
+.pictures .picture .pic{float: left;width: 25%;}
+.pictures .picture .pic p{font-size: 18px;font-weight: bold;margin-bottom: 1px;}
+.language{background-color: rgba(0, 0, 7, 0.884);color: white;line-height: 25px;border-bottom-left-radius: 30px;border-bottom-right-radius: 30px;}
+.language .lists{overflow: hidden;padding-top: 10%;padding-bottom: 3%;}
+.language .lists .list{float: left;width: 20%;}
+.language .lists .list ul{list-style: none;}
+.language .lists .list h1{font-size: 25px;}
+.language .lists .list .imogin ul{list-style: none;line-height: 10px;margin-left: -40px;}
+.language .lists .list .imogin ul li{display: inline;}
+.final{height: 50;text-align: center;}
+
+
+
+
+
+
